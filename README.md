@@ -9,7 +9,7 @@ El bot puede funcionar desde localhost o instalado en otro servidor, siempre que
 
 ## Configuración
 
-Para configurar el bot, es necesario editar el archivo `.env` con los parámetros de tu servidor FiveM y Discord. Puedes encontrar un ejemplo en [`data/.env.example`](./data/.env.example).
+Para configurar el bot, es necesario editar el archivo `.env` con los parámetros de tu servidor FiveM y Discord. Puedes encontrar un ejemplo en [`data/config/.env.example`](./data/config/.env.example).
 
 ### Parámetros requeridos:
 
