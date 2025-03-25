@@ -8,3 +8,5 @@ data/config/.env
 *.png
 
 data/errors/
+
+data/storage/

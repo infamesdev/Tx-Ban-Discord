@@ -2,7 +2,7 @@
 
 Esta es una herramienta de Discord que permite consultar los usuarios baneados en tu servidor de FiveM. Su propósito es facilitar la gestión de baneos directamente desde Discord, sin necesidad de iniciar el juego o acceder al servidor FiveM.
 
-> [!IMPORTANT]
+> [!IMPORTANTE]
 > Es necesario tener acceso al panel de TxAdmin para utilizar esta herramienta.
 
 El bot puede funcionar desde localhost o instalado en otro servidor, siempre que tenga acceso a la URL de TxAdmin.
